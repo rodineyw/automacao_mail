@@ -1,7 +1,5 @@
 # Automatização de Login no Outlook 🧮
 
-![Outlook Logo](https://i.imgur.com/your_logo_image.png)
-
 ## Descrição
 
 Este é um script Python simples para automatizar o processo de login no Outlook usando o Selenium. Ele inicia um navegador Chrome, preenche o formulário de login com seu e-mail e senha e confirma a opção "Continuar conectado". Ótimo para economizar tempo ao acessar sua conta do Outlook!
