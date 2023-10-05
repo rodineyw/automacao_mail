@@ -17,7 +17,7 @@ print("Digitando e-mail")
 navegador.find_element(
     "xpath",
     "/html/body/div/form[1]/div/div/div[2]/div[1]/div/div/div/div[2]/div[1]/div[3]/div/div/div/div[2]/div[2]/div/input[1]",
-).send_keys("rodineywan@outlook.com")
+).send_keys("USUARIO")
 sleep(0.5)
 navegador.find_element(
     "xpath",
@@ -29,7 +29,7 @@ print("Digitando senha")
 navegador.find_element(
     "xpath",
     "/html/body/div/form[1]/div/div/div[2]/div[1]/div/div/div/div/div/div[3]/div/div[2]/div/div[3]/div/div[2]/input",
-).send_keys("Roy371928@$")
+).send_keys("SENHA")
 sleep(0.5)
 navegador.find_element(
     "xpath",
