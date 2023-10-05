@@ -43,6 +43,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas, envia
 
 - [Ródiney Wanderson](https://github.com/rodineyw)
 
-## Licença 🪪
+## Licença
 
 Este projeto é licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
